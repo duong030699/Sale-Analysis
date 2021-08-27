@@ -15,5 +15,6 @@ To run this project perfectly, install some necessary libraries available in pyt
 
 ## Dataset
 All 12 csv files in "Sales_Data" directory is original data which contains NaN values, missing data... The errors are detected in all of the columns.
+
 All_data.csv is the complete file after processing error removal.
 #
