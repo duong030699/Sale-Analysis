@@ -17,4 +17,7 @@ To run this project perfectly, install some necessary libraries available in pyt
 All 12 csv files in "Sales_Data" directory is original data which contains NaN values, missing data... The errors are detected in all of the columns.
 
 All_data.csv is the complete file after processing error removal.
+
+## Inspiration
+The idea for this project is from Pandas-Science-Tasks from a Youtuber named Keith Galli.
 #
